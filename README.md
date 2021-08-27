@@ -51,7 +51,7 @@
 <div align="left" class='container'>
 	<h2 align="left">👨‍💻 Pré-requisitos </h2>
 	<p align="left">Python3 instalado</p>
-  pip install requirements.txt
+ ### $pip install requirements.txt
 </div>
 
 
