@@ -1,6 +1,6 @@
 
  <!-- Explicação do projeto -->
-<h1 align="left">rest-api-djando-quiz</h1>
+<h1 align="left">Django Rest Framework - API</h1>
 <h2 align="left"> 🧾 Descrição do Projeto</h2>
 <p align="left"> Desenvolvimento de uma API para ser consumida por um QUIZ feito em React</p>
 <table>
@@ -8,12 +8,10 @@
 		<tr>
 			<th>  </th>
 			<th>  </th>
-			<th>  </th>
 		</tr>
 		<tr>
 			<th> </th>
 			<th>  </th>
-			<th> </th>
 		</tr>
 	</tbody>
 </table>
@@ -43,7 +41,7 @@
 		<a href="https://www.python.org/" target="_blank" align = "left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="130" height="40" alt="Python3" /></a>
 		<a href="https://www.postman.com/" target="_blank" align = "left"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" width="130" height="40"/></a>
 		<a href="https://www.postgresql.org/" target="_blank" align = "left"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL" width="130" height="40"/></a>
-		<a href="https://www.heroku.com/" target="_blank" align = "left"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" width="130" height="40"/></a>
+		<!-- <a href="https://www.heroku.com/" target="_blank" align = "left"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" width="130" height="40"/></a>-->
 	</div>
 </div>
 
