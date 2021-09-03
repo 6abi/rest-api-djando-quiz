@@ -14,6 +14,7 @@
 	<tbody>
 		<tr>
 			<th> Criação dos apps </th>
+			<th>✔ </th>
 			<th> Criação dos endpoints </th>
 			<th> Criação dos endpoints </th>
 			<th> Criação dos models </th>
