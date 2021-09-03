@@ -13,8 +13,8 @@
 <table>
 	<tbody align='left'>
 		<tr>
-			<th><h2> Tarefa </h2></th>
-			<th><h2> Status </h2></th>
+			<th><h3> Tarefa </h3></th>
+			<th><h3> Status </h3></th>
 		</tr>
 		<tr>
 			<th> Criação dos apps </th>
