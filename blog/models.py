@@ -34,3 +34,12 @@ class Post(models.Model):
         User, on_delete=models.CASCADE, related_name='blog_posts')
     status = models.CharField(
         max_length=10, choices=options, default='published')
+    object = models.Manager() #default manager
+    postobjects = PostObjects() #custom manager
+
+    class Meta:
+        """Ordenar os POSTs"""
+        ordering = ('-published',)
+
+    def __str__(self):
+        return self.title
