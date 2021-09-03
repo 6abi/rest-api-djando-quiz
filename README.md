@@ -15,17 +15,15 @@
 		<tr>
 			<th> Criação dos apps </th>
 		</tr>	
+
 		<tr>
-			<th>✔ </th>
+			<th> Criação dos endpoints </th>
 		</tr>
 		<tr>
-			<tr> Criação dos endpoints </tr>
+			<th> Criação dos endpoints </th>
 		</tr>
 		<tr>
-			<tr> Criação dos endpoints </tr>
-		</tr>
-		<tr>
-			<tr> Criação dos models </tr>
+			<th> Criação dos models </th>
 		</tr>			
 	</tbody>
 </table>
