@@ -21,6 +21,10 @@
 			<th>✔</th>
 		</tr>
 		<tr>
+			<th> Instalação do DRF </th>
+			<th>✔</th>
+		</tr>
+		<tr>
 			<th> Criação dos endpoints </th>
 			<th>✔</th>	
 		</tr>	
@@ -30,8 +34,21 @@
 		</tr>
 		<tr>
 			<th> Criação dos models </th>
-			<th>🚧</th>			
-		</tr>			
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> Migração das alterações para o banco de dados </th>
+			<th>✔</th>		
+		</tr>
+		</tr>
+		<tr>
+			<th> Criação do Serializer para tranformar dados do banco em JSON e exibir na web </th>
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> Criação do Serializer para tranformar dados JSON no formato para o Python( front -> database) </th>
+			<th>🚧</th>		
+		</tr>
 	</tbody>
 </table>
 
