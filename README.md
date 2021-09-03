@@ -3,25 +3,29 @@
 <h1 align="left">Django Rest Framework - API</h1>
 <h2 align="left"> 🧾 Descrição do Projeto</h2>
 <p align="left"> Desenvolvimento de uma API para ser consumida por um QUIZ feito em React</p>
-<table>
-	<tbody>
-		<tr>
-			<th>  </th>
-			<th>  </th>
-		</tr>
-		<tr>
-			<th> </th>
-			<th>  </th>
-		</tr>
-	</tbody>
-</table>
+
 
  <!-- Status do projeto -->
  <h2 align="left"> ⁉ Status </h2>
 <h4 align="left"> 
 	<p align="left">🚧Em construção... 🚧</p>
 </h4>
-
+<table>
+	<tbody>
+		<tr>
+			<th> Criação dos apps </th>
+			<th> Criação dos endpoints </th>
+			<th> Criação dos endpoints </th>
+			<th> Criação dos models </th>
+		</tr>
+		<tr>
+			<th>✔ </th>
+			<th> ✔ </th>
+			<th> ✔ </th>
+			<th> 🚧 </th>
+		</tr>
+	</tbody>
+</table>
 
 <!-- Indice -->
 <!--<p align="center">
