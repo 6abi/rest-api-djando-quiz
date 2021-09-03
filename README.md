@@ -12,7 +12,7 @@
 </h4>
 <table>
 	<tbody>
-		,tr>
+		<tr>
 			<th> Tarefa </th>
 			<th> Status </th>
 		</tr>
