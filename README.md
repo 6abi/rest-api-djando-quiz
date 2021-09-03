@@ -17,9 +17,6 @@
 			<th> Criação dos endpoints </th>
 		</tr>	
 		<tr>
-			
-		</tr>
-		<tr>
 			<th> Criação dos endpoints </th>
 		</tr>
 		<tr>
