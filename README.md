@@ -17,11 +17,12 @@
 			<tr> Criação dos endpoints </tr>
 			<tr> Criação dos endpoints </tr>
 			<tr> Criação dos models </tr>
+			
+		</tr>
 			<th>✔ </th>
 			<th> ✔ </th>
 			<th> ✔ </th>
 			<th> 🚧 </th>
-		</tr>
 		<tr>
 		</tr>
 	</tbody>
