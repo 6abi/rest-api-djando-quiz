@@ -13,8 +13,8 @@
 <table>
 	<tbody>
 		<tr>
-			<th> Criação dos apps </th>
-			<th> Criação dos endpoints </th>
+			Criação dos apps
+			Criação dos endpoints
 			<th> Criação dos endpoints </th>
 			<th> Criação dos models </th>
 		</tr>
