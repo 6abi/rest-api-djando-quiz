@@ -12,6 +12,12 @@ class Category(models.Model):
 
 class Post(models.Model):
     """Criação protegida e identificavel do metodo post"""
+    
+    class PostObjects(models.Manager):
+        """Só mostra na web os POSTs com status 'published' """
+        def get_queryset(self):
+            return super().get_queryset().filter(status='published')
+    
     options = (
         ('draft','Draft'),
         ('published','Published'),
