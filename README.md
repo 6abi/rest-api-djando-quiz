@@ -46,6 +46,10 @@
 </p>-->
 
 <!-- Tecnologias envolvidas -->
+
+<!-- Tecnologias envolvidas -->
+<div align="left" class='container'>
+	<h2 align="left"> 🛠 Tecnologias envolvidas</h2>
 <div align="left" class='container'>
 <div class="box" align="left" display='flex'>
 		<a href="https://www.djangoproject.com/" target="_blank" align = "left"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" width="130" height="40"/></a>
