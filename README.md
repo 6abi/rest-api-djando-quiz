@@ -14,9 +14,10 @@
 	<tbody>
 		<tr>
 			<th> Criação dos apps </th>
+			<th> Criação dos endpoints </th>
 		</tr>	
 		<tr>
-			<th> Criação dos endpoints </th>
+			
 		</tr>
 		<tr>
 			<th> Criação dos endpoints </th>
