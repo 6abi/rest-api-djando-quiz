@@ -11,13 +11,17 @@
 	<p align="left">🚧Em construção... 🚧</p>
 </h4>
 <table>
-	<tbody>
+	<tbody align='left'>
 		<tr>
-			<th> Tarefa </th>
-			<th> Status </th>
+			<th><h3> Tarefa </h3></th>
+			<th><h3> Status </h3></th>
 		</tr>
 		<tr>
 			<th> Criação dos apps </th>
+			<th>✔</th>
+		</tr>
+		<tr>
+			<th> Instalação do DRF </th>
 			<th>✔</th>
 		</tr>
 		<tr>
@@ -30,8 +34,21 @@
 		</tr>
 		<tr>
 			<th> Criação dos models </th>
-			<th>🚧</th>			
-		</tr>			
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> Migração das alterações para o banco de dados </th>
+			<th>✔</th>		
+		</tr>
+		</tr>
+		<tr>
+			<th> Criação do Serializer para tranformar dados do banco em JSON e exibir na web </th>
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> Criação do Serializer para tranformar dados JSON no formato para o Python( front -> database) </th>
+			<th>🚧</th>		
+		</tr>
 	</tbody>
 </table>
 
