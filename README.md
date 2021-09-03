@@ -14,13 +14,20 @@
 	<tbody>
 		<tr>
 			<th> Criação dos apps </th>
+			<th> ✔  </th>
+			
+		</tr>
+		<tr>
 			<th> Criação dos endpoints </th>
+			<th> ✔  </th>
 		</tr>	
 		<tr>
 			<th> Criação dos endpoints </th>
+			<th> ✔  </th>
 		</tr>
 		<tr>
 			<th> Criação dos models </th>
+			<th>🚧</th>
 		</tr>			
 	</tbody>
 </table>
