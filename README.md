@@ -10,7 +10,7 @@
 <h4 align="left"> 
 	<p align="left">🚧Em construção... 🚧</p>
 </h4>
-<table>
+<table align='left'>
 	<tbody>
 		<tr>
 			<th> Tarefa </th>
