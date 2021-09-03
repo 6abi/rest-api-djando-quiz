@@ -15,7 +15,6 @@
 		<tr>
 			<th> Criação dos apps </th>
 		</tr>	
-
 		<tr>
 			<th> Criação dos endpoints </th>
 		</tr>
