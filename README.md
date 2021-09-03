@@ -25,7 +25,7 @@
 			<th>✔</th>	
 		</tr>	
 		<tr>
-			<th> Criação dos endpoints </th>
+			<th> Configs iniciais dos settings </th>
 			<th>✔</th>
 		</tr>
 		<tr>
