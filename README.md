@@ -46,6 +46,26 @@
 			<th>✔</th>		
 		</tr>
 		<tr>
+			<th> Criação e configuração  do Admin(superuser e Classe) </th>
+			<th✔</th>		
+		</tr>
+		<tr>
+			<th> Registrando as models para a admin page </th>
+			<th✔</th>		
+		</tr>
+		<tr>
+			<th> Teste do POST como admin </th>
+			<th✔</th>		
+		</tr>
+		<tr>
+			<th> Permissão para acessar os endpoints só para quem estiver autenticado </th>
+			<th✔</th>		
+		</tr>
+		<tr>
+			<th> Teste iniciais: Criação dos objetos, teste category, User, Author </th>
+			<th🚧</th>		
+		</tr>
+		<tr>
 			<th> Criação do Serializer para tranformar dados JSON no formato para o Python( front -> database) </th>
 			<th>🚧</th>		
 		</tr>
