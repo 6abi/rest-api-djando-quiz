@@ -9,5 +9,6 @@ class PostList(generics.ListCreateAPIView):
     pass
 
 class  PostDetail(generics.RetrieveDestroyAPIView):
-    """Detalhres de cada item do POST e limpar depois """
-    pass
+    """Detalhes de cada item do POST e limpar depois """
+    queryset =  Post.object.all()
+    serializer_class =  PostSerializer
