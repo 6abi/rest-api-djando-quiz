@@ -62,6 +62,10 @@
 			<th>✔</th>		
 		</tr>
 		<tr>
+			<th> Conectar com o front-end em React </th>
+			<th>✔</th>		
+		</tr>
+		<tr>
 			<th> Teste iniciais: Criação dos objetos, teste category, User, Author </th>
 			<th>🚧</th>		
 		</tr>
