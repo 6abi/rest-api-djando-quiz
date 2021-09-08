@@ -1,9 +1,14 @@
 from rest_framework import generics
 from blog.models import Post
 from .serializers import PostSerializer
+from rest_framework.permissions import IsAdminUser, DjangoModelPermissions
 
 class PostList(generics.ListCreateAPIView):
     """Listar o conteúdo e limpar depois """
+    permission_classes = [DjangoModelPermissions]
+    #IsAdminUser
+    #DjangoModelPermissionsOrAnonReadOnly
+    #DjangoModelPermissions
     queryset = Post.postobjects.all()
     serializer_class = PostSerializer
 

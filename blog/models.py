@@ -1,7 +1,10 @@
 from django.db import models
 from django.contrib.auth.models import User
 from django.utils import timezone
+from rest_framework.permissions import BasePermission, IsAdminUser, DjangoModelPermissions
 
+class PostUserWritePermission(BasePermission):
+    pass
 
 class Category(models.Model):
     """Criação dos campos e da table Category"""
