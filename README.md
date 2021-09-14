@@ -2,7 +2,7 @@
  <!-- Explicação do projeto -->
 <h1 align="left">Django Rest Framework - API</h1>
 <h2 align="left"> 🧾 Descrição do Projeto</h2>
-<p align="left"> Desenvolvimento de uma API para ser consumida por um QUIZ feito em React</p>
+<p align="left"> Desenvolvimento de uma API para ser consumida por um APP feito em React</p>
 
 
  <!-- Status do projeto -->
